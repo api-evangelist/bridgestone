@@ -1,0 +1,34 @@
+# Bridgestone (bridgestone)
+
+Bridgestone Corporation is a Japanese global tire and rubber manufacturer headquartered in Tokyo. Bridgestone produces tires for passenger, commercial, off-road, and aircraft applications, plus diversified rubber and chemical products, and is one of the largest tire makers in the world.
+
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/bridgestone/refs/heads/main/apis.yml)
+
+**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=bridgestone-api-evangelist&utm_content=repo)
+
+## Type
+
+- **x-type:** company
+
+## Tags:
+
+ - Tires, Rubber, Automotive, OEM Supplier
+
+## Timestamps
+
+- **Created:** 2026-05-06
+- **Modified:** 2026-05-06
+
+## APIs
+
+No public APIs have been documented. Bridgestone is a Tier 1 automotive supplier whose external interfaces are EDI, supplier portals, and customer-specific OEM integration channels rather than public REST APIs.
+
+## Common Properties
+
+- [Website](https://www.bridgestone.com/)
+
+## Maintainers
+
+**FN:** Kin Lane
+
+**Email:** kin@apievangelist.com

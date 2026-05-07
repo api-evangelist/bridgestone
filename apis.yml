@@ -1,0 +1,22 @@
+aid: bridgestone
+url: https://raw.githubusercontent.com/api-evangelist/bridgestone/refs/heads/main/apis.yml
+name: Bridgestone
+x-type: company
+description: >-
+  Bridgestone Corporation is a Japanese global tire and rubber manufacturer headquartered in Tokyo. Bridgestone produces tires for passenger, commercial, off-road, and aircraft applications, plus diversified rubber and chemical products, and is one of the largest tire makers in the world.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Tires
+  - Rubber
+  - Automotive
+  - OEM Supplier
+created: '2026-05-06'
+modified: '2026-05-06'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.bridgestone.com/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
