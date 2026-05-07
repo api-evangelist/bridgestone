@@ -17,6 +17,12 @@ apis: []
 common:
   - type: Website
     url: https://www.bridgestone.com/
+  - type: Plans
+    url: plans/bridgestone-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/bridgestone-rate-limits.yml
+  - type: FinOps
+    url: finops/bridgestone-finops.yml
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
