@@ -15,6 +15,8 @@ modified: '2026-05-06'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/bridgestone
   - type: Website
     url: https://www.bridgestone.com/
   - type: Plans
