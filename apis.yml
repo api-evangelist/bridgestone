@@ -4,6 +4,17 @@ name: Bridgestone
 kind: company
 description: >-
   Bridgestone Corporation is a Japanese global tire and rubber manufacturer headquartered in Tokyo. Bridgestone produces tires for passenger, commercial, off-road, and aircraft applications, plus diversified rubber and chemical products, and is one of the largest tire makers in the world.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: enterprise
   onboarding: unknown
